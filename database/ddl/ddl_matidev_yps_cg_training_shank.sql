@@ -12,9 +12,10 @@
     ____________________________________________________________________
 */
 CREATE TABLE matidev_yps_cg_training_shank
-(emp_name           VARCHAR2(50) NOT NULL,
- manager_name       VARCHAR2(50),
- joining_date       DATE,
- manager_from_date  DATE,
- manager_to_date    DATE
+(emp_name            VARCHAR2(50) NOT NULL,
+ manager_name        VARCHAR2(50),
+ joining_date        DATE,
+ manager_from_date   DATE,
+ manager_to_date     DATE,
+ current_manager_ind CHAR(1)
 );
