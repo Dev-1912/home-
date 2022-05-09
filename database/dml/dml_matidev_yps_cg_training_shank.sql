@@ -1,8 +1,7 @@
 /*  
     Object name:    dml_matidev_yps_cg_training_shank.sql
     Object type:    table
-    Purpose:        This table will hold the details of all past and present managers
-                    of the user
+    Purpose:        To perform dml operations on the table
     Created by:     Matidev Kumar
     Created on:     9th May 2022
     ____________________________________________________________________
