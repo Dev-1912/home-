@@ -29,3 +29,5 @@ INSERT INTO matidev_yps_cg_training_shank VALUES ('Arpita Kanungoe', 'Nawrin Say
 INSERT INTO matidev_yps_cg_training_shank VALUES ('Arpita Kanungoe', 'Shashank Jain', '19-AUG-2021', '01-MAY-2022', NULL,'Y');
 INSERT INTO matidev_yps_cg_training_shank VALUES ('Seema', 'Nawrin Sayed', '19-AUG-2021', '19-AUG-2021', '30-APR-2022','N');
 INSERT INTO matidev_yps_cg_training_shank VALUES ('Seema', 'Shashank Jain', '19-AUG-2021', '01-MAY-2022', NULL,'Y');
+INSERT INTO matidev_yps_cg_training_shank VALUES ('Matidev Kumar', 'Nawrin Sayed', '19-AUG-2021', '19-AUG-2021', '30-APR-2022','N');
+INSERT INTO matidev_yps_cg_training_shank VALUES ('Matidev Kumar', 'Shashank Jain', '19-AUG-2021', '01-MAY-2022', NULL,'Y');
