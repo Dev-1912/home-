@@ -5,12 +5,15 @@
                     of the user
     Created by:     Matidev Kumar
     Created on:     9th May 2022
-    ____________________________________________________________________
+    __________________________________________________________________________
     Last modified by    |       Modified on     |   Modification history
-    ____________________________________________________________________
+    __________________________________________________________________________
     Matidev Kumar     |       9th May 2022    |   Initial version   
-    ____________________________________________________________________
+    Matidev Kumar     |       16th May 2022   |  Alter table added a column
+    __________________________________________________________________________
 */
+
+--initial creation
 CREATE TABLE matidev_yps_cg_training_shank
 (emp_name            VARCHAR2(50) NOT NULL,
  manager_name        VARCHAR2(50),
@@ -19,3 +22,7 @@ CREATE TABLE matidev_yps_cg_training_shank
  manager_to_date     DATE,
  current_manager_ind CHAR(1)
 );
+
+--updation on 16th may 2022
+ALTER  TABLE  matidev_yps_cg_training_shank
+  ADD         manager_ind CHAR(1);
